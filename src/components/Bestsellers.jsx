@@ -8,8 +8,8 @@ function Bestseller() {
     return (
       <div
         key={index}
-        className={`mx-[32px] my-2 flex h-[120px] items-center rounded-3xl ${
-          index === 0 ? "my-0 bg-[#FEF2EE]" : "bg-white"
+        className={`mx-[32px] mt-2 flex h-[120px] items-center rounded-3xl ${
+          index === 0 ? "mt-0 bg-[#FEF2EE]" : "bg-white"
         }`}
       >
         <img
