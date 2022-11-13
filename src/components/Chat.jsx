@@ -13,7 +13,7 @@ function Chat() {
             className="h-12 w-12 shrink-0 grow-0 rounded-full"
           />
           <div id="designation">
-            <h3 className="mx-[15px] text-lg font-semibold text-white">
+            <h3 className="mx-[15px] text-lg font-semibold tracking-[.25px] text-white">
               Emily Dougrer
             </h3>
             <p className="mx-[15px] text-sm font-normal text-white opacity-50">
@@ -51,7 +51,7 @@ function Chat() {
           className="ml-[32px] focus:outline-none"
         />
         <a
-          src="#"
+          href="#"
           className="my-[16px] mr-[32px] text-right text-base font-semibold text-[#5856D7] hover:cursor-pointer"
         >
           Send
