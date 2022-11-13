@@ -37,7 +37,10 @@ function Bestseller() {
   });
 
   return (
-    <div className="my-10 mx-auto w-[375px] rounded-3xl bg-white">
+    <div
+      id="bestsellers"
+      className="my-10 mx-auto w-[375px] rounded-3xl bg-white"
+    >
       <h1 className="pt-8 pl-8 text-left text-2xl font-semibold">
         Bestsellers
       </h1>
