@@ -2,14 +2,16 @@ import "./App.css";
 import Chat from "./components/Chat";
 import Bestsellers from "./components/Bestsellers";
 import React from "react";
+import NewCard from "./components/NewCard";
+import Profile from "./components/Profile";
 
 function App() {
   return (
-    <main className="container mx-auto my-10 px-4 md:px-0 lg:px-0">
-      <div>
+    <main className="container mx-auto my-10 px-4 md:px-0 lg:px-0 lg:flex lg:gap-5 lg:flex-wrap">
         <Chat />
         <Bestsellers />
-      </div>
+        <NewCard />
+        <Profile />
     </main>
   );
 }
