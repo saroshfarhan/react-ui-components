@@ -4,7 +4,7 @@ This contains reusable React UI components built using tailwind css. This projec
 
 ## Screenshot
 
-<img width="1438" class="rounded-xl" alt="Screenshot 2022-11-14 at 4 21 00 PM" src="https://user-images.githubusercontent.com/12766730/201642084-3f7b398e-7b7b-473a-a0f0-376f987cfcae.png">
+<img width="1438" style="border-radius: 8px;" alt="Screenshot 2022-11-14 at 4 21 00 PM" src="https://user-images.githubusercontent.com/12766730/201642084-3f7b398e-7b7b-473a-a0f0-376f987cfcae.png">
 
 # Getting Started with Create React App
 
