@@ -34,7 +34,7 @@ function Profile() {
         </p>
         <button
           type="button"
-          className="mt-7 h-[40] w-[142px] rounded-3xl bg-[#FE805C] px-4 py-3 text-sm font-bold tracking-[0.25px] text-white hover:bg-[#FE6034]"
+          className="mt-7 h-[40] w-[142px] rounded-3xl bg-[#FE805C] px-4 py-3 text-sm font-bold tracking-[0.25px] text-white hover:bg-[#FE6034] focus:outline-none"
         >
           Hire Me
         </button>
