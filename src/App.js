@@ -4,6 +4,7 @@ import Bestsellers from "./components/Bestsellers";
 import React from "react";
 import NewCard from "./components/NewCard";
 import Profile from "./components/Profile";
+import Creditcard from "./components/Creditcard";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Bestsellers />
         <NewCard />
         <Profile />
+        <Creditcard />
     </main>
   );
 }
