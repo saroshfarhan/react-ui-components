@@ -5,6 +5,7 @@ import React from "react";
 import NewCard from "./components/NewCard";
 import Profile from "./components/Profile";
 import Creditcard from "./components/Creditcard";
+import Charts from "./components/Charts";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <NewCard />
         <Profile />
         <Creditcard />
+        <Charts />
     </main>
   );
 }
