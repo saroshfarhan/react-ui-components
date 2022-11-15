@@ -10,7 +10,7 @@ function Profile() {
   return (
     <div
       id="profile-container"
-      className="mx-auto h-[496px] w-[375px] rounded-3xl bg-white py-px"
+      className="mx-auto h-[496px] w-[375px] rounded-3xl bg-white py-px lg:my-auto"
       style={shadow}
     >
       <div

@@ -10,7 +10,7 @@ function NewCard() {
     <>
       <div
         id="new-card-light-container"
-        className="mx-auto h-[301px] w-[262px] rounded-3xl bg-white py-px"
+        className="mx-auto h-[301px] w-[262px] rounded-3xl bg-white py-px lg:my-auto"
         style={shadow}
       >
         <div

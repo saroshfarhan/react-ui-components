@@ -35,7 +35,7 @@ function Creditcard() {
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 24 24"
-          strokeWidth={2}
+          strokeWidth={2.5}
           stroke="#000000"
           className="ml-7 h-4 w-4"
         >

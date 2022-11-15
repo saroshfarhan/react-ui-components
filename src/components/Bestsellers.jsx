@@ -39,7 +39,7 @@ function Bestseller() {
   return (
     <div
       id="bestsellers"
-      className="my-10 mx-auto w-[375px] rounded-3xl bg-white"
+      className="my-10 mx-auto w-[375px] rounded-3xl bg-white lg:mx-auto"
     >
       <h1 className="pt-8 pl-8 text-left text-2xl font-semibold">
         Bestsellers

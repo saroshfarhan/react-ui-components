@@ -3,7 +3,10 @@ import profile from "../assets/images/profilePic.png";
 
 function Chat() {
   return (
-    <div id="chats-content" className="mx-auto h-auto w-[375px] rounded-3xl">
+    <div
+      id="chats-content"
+      className="mx-auto h-auto w-[375px] rounded-3xl lg:my-auto"
+    >
       <div id="profile-details" className="rounded-t-3xl bg-[#4643D3]">
         <div id="profile" className="flex py-[22px] px-[32px]">
           <img
