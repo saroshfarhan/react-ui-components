@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-ui-components/static/css/main.08b915ef.css",
+    "main.js": "/react-ui-components/static/js/main.673c63fa.js",
+    "static/media/profile.png": "/react-ui-components/static/media/profile.5ea11a6213c8f02a71be.png",
+    "static/media/Graph.png": "/react-ui-components/static/media/Graph.ec8de0e8d7fee4552cc3.png",
+    "index.html": "/react-ui-components/index.html",
+    "main.08b915ef.css.map": "/react-ui-components/static/css/main.08b915ef.css.map",
+    "main.673c63fa.js.map": "/react-ui-components/static/js/main.673c63fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b915ef.css",
+    "static/js/main.673c63fa.js"
+  ]
+}
